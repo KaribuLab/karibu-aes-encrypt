@@ -1,0 +1,12 @@
+{
+  "name": "aes-encrypt",
+  "version": "1.0.0",
+  "description": "Encriptación AES en modo ECB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+} 
