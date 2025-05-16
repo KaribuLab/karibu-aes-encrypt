@@ -1,4 +1,4 @@
-# Karibu -AES Encryption in ECB Mode
+# Karibu - AES Encryption in ECB Mode
 
 This Node.js application allows you to encrypt text using the AES algorithm in ECB mode and is compatible with decryption in Python.
 
